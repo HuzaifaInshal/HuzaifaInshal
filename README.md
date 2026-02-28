@@ -16,12 +16,12 @@
 
 ## Side Projects
 
-- 🚇 **[Bill Splitter](https://github.com/HuzaifaInshal/Bill_Splitter)** - Split expenses fairly among friends
-- 🚇 **[Wifite Hashcat Wifi Cracking](https://github.com/HuzaifaInshal/Wifite_hashcat_automation_script)** - Wifite + Hashcat combo to stream and automate wifi cracking in Kali
-- 🚇 **[3d SpaceX Spacecraft](https://github.com/HuzaifaInshal/spacex_spacecraft)** - Indulge yourself in the 3diness of space in a browser screen
-- 🚇 **[3d Dropify](https://github.com/HuzaifaInshal/3d_dropify)** - A 3d web animation built completely from scratch via GSAP and ThreeJs
-- 🚇 **[3d Iphone 14 Pro](https://github.com/HuzaifaInshal/3diphone14pro)** - Futuristic 3d website built to showcase iphone 14 pro
-- 🚇 **[Calculator](https://github.com/HuzaifaInshal/Calculator)** - Let's do some maths
+- 💰 **[Bill Splitter](https://github.com/HuzaifaInshal/Bill_Splitter)** - Split expenses fairly among friends
+- 🔐 **[Wifite Hashcat Wifi Cracking](https://github.com/HuzaifaInshal/Wifite_hashcat_automation_script)** - Wifite + Hashcat combo to stream and automate wifi cracking in Kali
+- 🚀 **[3d SpaceX Spacecraft](https://github.com/HuzaifaInshal/spacex_spacecraft)** - Indulge yourself in the 3D-ness of space in a browser screen
+- 🎨 **[3d Dropify](https://github.com/HuzaifaInshal/3d_dropify)** - A 3D web animation built completely from scratch via GSAP and Three.js
+- 📱 **[3d Iphone 14 Pro](https://github.com/HuzaifaInshal/3diphone14pro)** - Futuristic 3D website built to showcase iPhone 14 Pro
+- 🧮 **[Calculator](https://github.com/HuzaifaInshal/Calculator)** - Let's do some maths
 
 ## GitHub Activity
 
@@ -37,7 +37,7 @@
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Huzaifa-Inshal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HuzaifaInshal)
+[![LinkedIn](https://img.shields.io/badge/-Huzaifa_Inshal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HuzaifaInshal)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HuzaifaInshal)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/muhammadhuzaifainshal)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/huzaifa_inshal)
