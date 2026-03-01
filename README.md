@@ -16,12 +16,40 @@
 
 ## Side Projects
 
-- 💰 **[Bill Splitter](https://github.com/HuzaifaInshal/Bill_Splitter)** - Split expenses fairly among friends
-- 🔐 **[Wifite Hashcat Wifi Cracking](https://github.com/HuzaifaInshal/Wifite_hashcat_automation_script)** - Wifite + Hashcat combo to stream and automate wifi cracking in Kali
-- 🚀 **[3d SpaceX Spacecraft](https://github.com/HuzaifaInshal/spacex_spacecraft)** - Indulge yourself in the 3D-ness of space in a browser screen
-- 🎨 **[3d Dropify](https://github.com/HuzaifaInshal/3d_dropify)** - A 3D web animation built completely from scratch via GSAP and Three.js
-- 📱 **[3d Iphone 14 Pro](https://github.com/HuzaifaInshal/3diphone14pro)** - Futuristic 3D website built to showcase iPhone 14 Pro
-- 🧮 **[Calculator](https://github.com/HuzaifaInshal/Calculator)** - Let's do some maths
+- 💰 **Bill Splitter**  
+  _Split expenses fairly among friends._  
+  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/Bill_Splitter)  
+  🌐 Live: [View Project](https://billsplitter-h.vercel.app/)
+
+- 🔐 **Wifite Hashcat WiFi Cracking**  
+  _Wifite + Hashcat combo to stream and automate WiFi cracking in Kali Linux._  
+  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/Wifite_hashcat_automation_script)
+
+- 🚀 **3D SpaceX Spacecraft**  
+  _Indulge yourself in the 3D-ness of space directly in your browser._  
+  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/spacex_spacecraft)  
+  🌐 Live: [View Project](https://3dspacecraft.netlify.app/)
+
+- 🎨 **3D Dropify**  
+  _A fully custom 3D web animation built from scratch using GSAP & Three.js._  
+  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/3d_dropify)  
+  🌐 Live: [View Project](https://3dropify.netlify.app/)
+
+- 📱 **3D iPhone 14 Pro**  
+  _A futuristic 3D website showcasing the iPhone 14 Pro experience._  
+  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/3diphone14pro)  
+  🌐 Live: [View Project](https://3diphone14pro.netlify.app/)
+
+- 🧮 **Calculator**  
+ _A simple and clean calculator built with core web fundamentals._  
+ 🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/Calculator)  
+ 🌐 Live: [View Project](https://calculator7854.netlify.app/)
+<!-- - 💰 **[Bill Splitter](https://github.com/HuzaifaInshal/Bill_Splitter)** – Split expenses fairly among friends | 🌐 [Live](https://your-live-link.com)
+- 🔐 **[Wifite Hashcat Wifi Cracking](https://github.com/HuzaifaInshal/Wifite_hashcat_automation_script)** – Wifite + Hashcat combo to stream and automate wifi cracking in Kali
+- 🚀 **[3d SpaceX Spacecraft](https://github.com/HuzaifaInshal/spacex_spacecraft)** – Indulge yourself in the 3D-ness of space in a browser screen | 🌐 [Live](https://your-live-link.com)
+- 🎨 **[3d Dropify](https://github.com/HuzaifaInshal/3d_dropify)** – A 3D web animation built completely from scratch via GSAP and Three.js | 🌐 [Live](https://your-live-link.com)
+- 📱 **[3d Iphone 14 Pro](https://github.com/HuzaifaInshal/3diphone14pro)** – Futuristic 3D website built to showcase iPhone 14 Pro | 🌐 [Live](https://your-live-link.com)
+- 🧮 **[Calculator](https://github.com/HuzaifaInshal/Calculator)** – Let's do some maths | 🌐 [Live](https://your-live-link.com) -->
 
 ## GitHub Activity
 
