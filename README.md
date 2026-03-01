@@ -12,7 +12,7 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> I am focused on shipping scalable and secure applications with Next.js and NestJS. I leverage AI to speed up development while relying on my strong fundamentals to write clean, maintainable code. I enjoy deep debugging, solving complex problems, and constantly improving my craft.
+> Over the years, I’ve built user-focused products with clean architecture, strong engineering fundamentals, and AI-driven workflows to ship faster and smarter.
 
 ## Side Projects
 
