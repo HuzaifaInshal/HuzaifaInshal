@@ -19,7 +19,7 @@
 - 💰 **Bill Splitter**  
   _Split expenses fairly among friends._  
   🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/bill-splitter)  
-  🌐 Live: [View Project](https://billsplitter-h.vercel.app/)
+  🌐 Live: [View Project](https://bill-splitter-lyart.vercel.app/)
 
 - 🔐 **Wifite Hashcat WiFi Cracking**  
   _Wifite + Hashcat combo to stream and automate WiFi cracking in Kali Linux._  
