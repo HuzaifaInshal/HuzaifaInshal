@@ -16,6 +16,11 @@
 
 ## Side Projects
 
+- 💰 **Job Tracker**  
+  _An application to manage and track your applications._  
+  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/job-tracker)  
+  🌐 Live: [View Project](https://job-tracker-huz.vercel.app/)
+  
 - 💰 **Bill Splitter**  
   _Split expenses fairly among friends._  
   🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/bill-splitter)  
