@@ -8,7 +8,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Angular.js](https://img.shields.io/badge/-Angular.js-F44336?style=flat-square&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-F44336?style=flat-square&logo=angular&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-2986CC?style=flat-square&logo=dotnet&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
