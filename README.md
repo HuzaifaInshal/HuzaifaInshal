@@ -23,6 +23,11 @@
   🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/job-tracker)  
   🌐 Live: [View Project](https://job-tracker-huz.vercel.app/)
 
+-  🔏 **Huzaifa Dev Vault**  
+  _Huzaifa Dev Vault is a personal developer knowledge base where I store and organize reusable code, practical snippets, setup guides, automation scripts, and AI workflows. It acts as a centralized vault for everything I build and learn—making it easy to revisit, reuse, and scale ideas efficiently across projects._  
+  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/huzaifa-dev-vault)  
+  🌐 Live: [View Project](https://huzaifa-dev-vault.vercel.app/)
+
 - 📸 **DOM Snap**  
   _A chrome extension with different modes and supports to click a shot of any DOM element. Save as your favorite image format or favicon._  
   🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/dom-snap)  
@@ -68,7 +73,7 @@
 
 - ✊ **NextJS Boiler Plate**  
  _A production ready boilerplate template for NextJs. Combines all necessary components, with production level hooks and utilities all pre-generated. The boilerplate also define the rules and instructions to manage with your coding agent._  
- 🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/nextjs-boilerplate)  
+ 🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/nextjs-boilerplate) 
 <!-- - 💰 **[Bill Splitter](https://github.com/HuzaifaInshal/bill-splitter)** – Split expenses fairly among friends | 🌐 [Live](https://your-live-link.com)
 - 🔐 **[Wifite Hashcat Wifi Cracking](https://github.com/HuzaifaInshal/wifite-hashcat-automation-script)** – Wifite + Hashcat combo to stream and automate wifi cracking in Kali
 - 🚀 **[3d SpaceX Spacecraft](https://github.com/HuzaifaInshal/spacex-spacecraft)** – Indulge yourself in the 3D-ness of space in a browser screen | 🌐 [Live](https://your-live-link.com)
