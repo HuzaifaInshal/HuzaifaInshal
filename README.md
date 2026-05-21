@@ -19,7 +19,7 @@
 ## Side Projects
  
 - 🤖 **Job Tracker**  
-  _An application to manage and track your applications._  
+  _The command center for your job search.  JobTrack is a multi-platform job application tracker. Log every application, manage statuses, track interview timelines, and stay on top of your job search — all in one place._  
   🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/job-tracker)  
   🌐 Live: [View Project](https://job-tracker-huz.vercel.app/)
 
@@ -38,7 +38,7 @@
   🌐 Live: [View Project](https://bill-splitter-lyart.vercel.app/)
 
 - 🔐 **Wifite Hashcat WiFi Cracking**  
-  _Wifite + Hashcat combo to stream and automate WiFi cracking in Kali Linux._  
+  _Wifite + Hashcat combo to stream and automate wifi cracking by capturing WPA in Kali with Python._  
   🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/wifite-hashcat-automation-script)
 
 - 🎨 **Social Save**  
@@ -65,6 +65,10 @@
  _A simple and clean calculator built with core web fundamentals._  
  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/calculator)  
  🌐 Live: [View Project](https://calculator7854.netlify.app/)
+
+- ✊ **NextJS Boiler Plate**  
+ _A production ready boilerplate template for NextJs. Combines all necessary components, with production level hooks and utilities all pre-generated. The boilerplate also define the rules and instructions to manage with your coding agent._  
+ 🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/nextjs-boilerplate)  
 <!-- - 💰 **[Bill Splitter](https://github.com/HuzaifaInshal/bill-splitter)** – Split expenses fairly among friends | 🌐 [Live](https://your-live-link.com)
 - 🔐 **[Wifite Hashcat Wifi Cracking](https://github.com/HuzaifaInshal/wifite-hashcat-automation-script)** – Wifite + Hashcat combo to stream and automate wifi cracking in Kali
 - 🚀 **[3d SpaceX Spacecraft](https://github.com/HuzaifaInshal/spacex-spacecraft)** – Indulge yourself in the 3D-ness of space in a browser screen | 🌐 [Live](https://your-live-link.com)
