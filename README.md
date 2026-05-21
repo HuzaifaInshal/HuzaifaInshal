@@ -17,20 +17,20 @@
 > Over the years, I’ve built user-focused products with clean architecture, strong engineering fundamentals, and AI-driven workflows to ship faster and smarter.
 
 ## Side Projects
+ 
+- 🤖 **Job Tracker**  
+  _An application to manage and track your applications._  
+  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/job-tracker)  
+  🌐 Live: [View Project](https://job-tracker-huz.vercel.app/)
 
-- 💰 **DOM Snap**  
+- 📸 **DOM Snap**  
   _A chrome extension with different modes and supports to click a shot of any DOM element. Save as your favorite image format or favicon._  
   🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/dom-snap)  
   
-- 💰 **Job Tracker**  
-  _An application to manage and track your applications._  
-  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/job-tracker)  
-  🌐 Live: [View Project](https://job-tracker-huz.vercel.app/)
-  
-- 💰 **Job Tracker**  
-  _An application to manage and track your applications._  
-  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/job-tracker)  
-  🌐 Live: [View Project](https://job-tracker-huz.vercel.app/)
+- 🎨 **Git Painter**  
+  _GitPainter is a web application that lets you generate artificial Git commit history and download it as a ready-to-use repository._  
+  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/git-painter)  
+  🌐 Live: [View Project](https://git-painter-1.vercel.app/)
   
 - 💰 **Bill Splitter**  
   _Split expenses fairly among friends._  
@@ -40,6 +40,11 @@
 - 🔐 **Wifite Hashcat WiFi Cracking**  
   _Wifite + Hashcat combo to stream and automate WiFi cracking in Kali Linux._  
   🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/wifite-hashcat-automation-script)
+
+- 🎨 **Social Save**  
+  _A platform to save all your social posts, reels and photos in one platform. Seamlessly save and view your favorite stuff from different platforms like Facebook, Instagram, Youtube and Tiktok, all in a single place._  
+  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/social-save)  
+  🌐 Live: [View Project](https://social-save-allz.vercel.app/)
 
 - 🚀 **3D SpaceX Spacecraft**  
   _Indulge yourself in the 3D-ness of space directly in your browser._  
