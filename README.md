@@ -18,6 +18,15 @@
 
 ## Side Projects
 
+- 💰 **DOM Snap**  
+  _A chrome extension with different modes and supports to click a shot of any DOM element. Save as your favorite image format or favicon._  
+  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/dom-snap)  
+  
+- 💰 **Job Tracker**  
+  _An application to manage and track your applications._  
+  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/job-tracker)  
+  🌐 Live: [View Project](https://job-tracker-huz.vercel.app/)
+  
 - 💰 **Job Tracker**  
   _An application to manage and track your applications._  
   🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/job-tracker)  
