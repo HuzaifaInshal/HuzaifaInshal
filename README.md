@@ -16,7 +16,7 @@
 
 > Over the years, I’ve built user-focused products with clean architecture, strong engineering fundamentals, and AI-driven workflows to ship faster and smarter.
 
-## Side Projects
+<!-- ## Side Projects
  
 - 🤖 **Job Tracker**  
   _The command center for your job search.  JobTrack is a multi-platform job application tracker. Log every application, manage statuses, track interview timelines, and stay on top of your job search — all in one place._  
@@ -73,7 +73,7 @@
 
 - ✊ **NextJS Boiler Plate**  
  _A production ready boilerplate template for NextJs. Combines all necessary components, with production level hooks and utilities all pre-generated. The boilerplate also define the rules and instructions to manage with your coding agent._  
- 🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/nextjs-boilerplate) 
+ 🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/nextjs-boilerplate) -->
 <!-- - 💰 **[Bill Splitter](https://github.com/HuzaifaInshal/bill-splitter)** – Split expenses fairly among friends | 🌐 [Live](https://your-live-link.com)
 - 🔐 **[Wifite Hashcat Wifi Cracking](https://github.com/HuzaifaInshal/wifite-hashcat-automation-script)** – Wifite + Hashcat combo to stream and automate wifi cracking in Kali
 - 🚀 **[3d SpaceX Spacecraft](https://github.com/HuzaifaInshal/spacex-spacecraft)** – Indulge yourself in the 3D-ness of space in a browser screen | 🌐 [Live](https://your-live-link.com)
