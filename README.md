@@ -16,70 +16,20 @@
 
 > Over the years, I’ve built user-focused products with clean architecture, strong engineering fundamentals, and AI-driven workflows to ship faster and smarter.
 
-<!-- ## Side Projects
- 
-- 🤖 **Job Tracker**  
-  _The command center for your job search.  JobTrack is a multi-platform job application tracker. Log every application, manage statuses, track interview timelines, and stay on top of your job search — all in one place._  
-  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/job-tracker)  
-  🌐 Live: [View Project](https://job-tracker-huz.vercel.app/)
+## Side Projects
 
--  🔏 **Huzaifa Dev Vault**  
-  _Huzaifa Dev Vault is a personal developer knowledge base where I store and organize reusable code, practical snippets, setup guides, automation scripts, and AI workflows. It acts as a centralized vault for everything I build and learn—making it easy to revisit, reuse, and scale ideas efficiently across projects._  
-  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/huzaifa-dev-vault)  
-  🌐 Live: [View Project](https://huzaifa-dev-vault.vercel.app/)
-
-- 📸 **DOM Snap**  
-  _A chrome extension with different modes and supports to click a shot of any DOM element. Save as your favorite image format or favicon._  
-  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/dom-snap)  
-  
-- 🎨 **Git Painter**  
-  _GitPainter is a web application that lets you generate artificial Git commit history and download it as a ready-to-use repository._  
-  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/git-painter)  
-  🌐 Live: [View Project](https://git-painter-1.vercel.app/)
-  
-- 💰 **Bill Splitter**  
-  _Split expenses fairly among friends._  
-  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/bill-splitter)  
-  🌐 Live: [View Project](https://bill-splitter-lyart.vercel.app/)
-
-- 🔐 **Wifite Hashcat WiFi Cracking**  
-  _Wifite + Hashcat combo to stream and automate wifi cracking by capturing WPA in Kali with Python._  
-  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/wifite-hashcat-automation-script)
-
-- 🎨 **Social Save**  
-  _A platform to save all your social posts, reels and photos in one platform. Seamlessly save and view your favorite stuff from different platforms like Facebook, Instagram, Youtube and Tiktok, all in a single place._  
-  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/social-save)  
-  🌐 Live: [View Project](https://social-save-allz.vercel.app/)
-
-- 🚀 **3D SpaceX Spacecraft**  
-  _Indulge yourself in the 3D-ness of space directly in your browser._  
-  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/spacex-spacecraft)  
-  🌐 Live: [View Project](https://3dspacecraft.netlify.app/)
-
-- 🎨 **3D Dropify**  
-  _A fully custom 3D web animation built from scratch using GSAP & Three.js._  
-  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/3d-dropify)  
-  🌐 Live: [View Project](https://3dropify.netlify.app/)
-
-- 📱 **3D iPhone 14 Pro**  
-  _A futuristic 3D website showcasing the iPhone 14 Pro experience._  
-  🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/3d-iphone-14-pro)  
-  🌐 Live: [View Project](https://3diphone14pro.netlify.app/)
-
-- 🧮 **Calculator**  
- _A simple and clean calculator built with core web fundamentals._  
- 🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/calculator)  
- 🌐 Live: [View Project](https://calculator7854.netlify.app/)
-
-- ✊ **NextJS Boiler Plate**  
- _A production ready boilerplate template for NextJs. Combines all necessary components, with production level hooks and utilities all pre-generated. The boilerplate also define the rules and instructions to manage with your coding agent._  
- 🔗 GitHub: [Repository](https://github.com/HuzaifaInshal/nextjs-boilerplate) -->
-<!-- - 💰 **[Bill Splitter](https://github.com/HuzaifaInshal/bill-splitter)** – Split expenses fairly among friends | 🌐 [Live](https://your-live-link.com)
-- 🔐 **[Wifite Hashcat Wifi Cracking](https://github.com/HuzaifaInshal/wifite-hashcat-automation-script)** – Wifite + Hashcat combo to stream and automate wifi cracking in Kali
-- 🚀 **[3d SpaceX Spacecraft](https://github.com/HuzaifaInshal/spacex-spacecraft)** – Indulge yourself in the 3D-ness of space in a browser screen | 🌐 [Live](https://your-live-link.com)
-- 🎨 **[3d Dropify](https://github.com/HuzaifaInshal/3d-dropify)** – A 3D web animation built completely from scratch via GSAP and Three.js | 🌐 [Live](https://your-live-link.com)
-- 📱 **[3d Iphone 14 Pro](https://github.com/HuzaifaInshal/3d-iphone-14-pro)** – Futuristic 3D website built to showcase iPhone 14 Pro | 🌐 [Live](https://your-live-link.com)
-- 🧮 **[Calculator](https://github.com/HuzaifaInshal/calculator)** – Let's do some maths | 🌐 [Live](https://your-live-link.com) -->
+- 🤖 **Job Tracker** - A centralized dashboard to track job applications, interview stages, and hiring progress. [🔗](https://github.com/HuzaifaInshal/job-tracker) [🌐](https://job-tracker-huz.vercel.app/)
+- 🔏 **Huzaifa Dev Vault** - A personal knowledge base for code snippets, guides, automation scripts, and AI workflows. [🔗](https://github.com/HuzaifaInshal/huzaifa-dev-vault) [🌐](https://huzaifa-dev-vault.vercel.app/)
+- 📸 **DOM Snap** - A Chrome extension for capturing screenshots of any DOM element in multiple formats. [🔗](https://github.com/HuzaifaInshal/dom-snap)
+- 🎨 **Git Painter** - Generate artificial Git commit histories and export them as ready-to-use repositories. [🔗](https://github.com/HuzaifaInshal/git-painter) [🌐](https://git-painter-1.vercel.app/)
+- 💰 **Bill Splitter** - Split expenses fairly among friends. [🔗](https://github.com/HuzaifaInshal/bill-splitter) [🌐](https://bill-splitter-lyart.vercel.app/)
+- 🔐 **Wifite Hashcat WiFi Cracking** - Automates WPA handshake capture and Hashcat workflows using Python on Kali Linux. [🔗](https://github.com/HuzaifaInshal/wifite-hashcat-automation-script)
+- 🎨 **Social Save** - Save and organize posts, reels, videos, and photos from multiple social platforms. [🔗](https://github.com/HuzaifaInshal/social-save) [🌐](https://social-save-allz.vercel.app/)
+- 🚀 **3D SpaceX Spacecraft** - An immersive 3D space exploration experience built for the browser. [🔗](https://github.com/HuzaifaInshal/spacex-spacecraft) [🌐](https://3dspacecraft.netlify.app/)
+- 🎨 **3D Dropify** - A custom 3D web animation experience built with Three.js and GSAP. [🔗](https://github.com/HuzaifaInshal/3d-dropify) [🌐](https://3dropify.netlify.app/)
+- 📱 **3D iPhone 14 Pro** - A futuristic 3D showcase inspired by the iPhone 14 Pro. [🔗](https://github.com/HuzaifaInshal/3d-iphone-14-pro) [🌐](https://3diphone14pro.netlify.app/)
+- 🧮 **Calculator** - A clean calculator built using core HTML, CSS, and JavaScript fundamentals. [🔗](https://github.com/HuzaifaInshal/calculator) [🌐](https://calculator7854.netlify.app/)
+- ✊ **NextJS Boiler Plate** - A production-ready Next.js starter with utilities, hooks, and AI-friendly development workflows. [🔗](https://github.com/HuzaifaInshal/nextjs-boilerplate)
 
 ## GitHub Activity
 
