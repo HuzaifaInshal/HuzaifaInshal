@@ -30,6 +30,8 @@
 - 📱 **3D iPhone 14 Pro** - A futuristic 3D showcase inspired by the iPhone 14 Pro. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/3d-iphone-14-pro) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://3diphone14pro.netlify.app/)
 - 🧮 **Calculator** - A clean calculator built using core HTML, CSS, and JavaScript fundamentals. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/calculator) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://calculator7854.netlify.app/)
 - ✊ **NextJS Boiler Plate** - A production-ready Next.js starter with utilities, hooks, and AI-friendly development workflows. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/nextjs-boilerplate)
+- 🤖 **Local AI Integration Setup** - Natural language SQL querying and PDF analytics powered by hybrid-local AI models. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/local-AI-integration-setup)
+- 🎬 **Media Load App** - Browse, scrap, download, and watch your favorite web videos offline, all in one app. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/media-load-app)
 
 ## GitHub Activity
 
