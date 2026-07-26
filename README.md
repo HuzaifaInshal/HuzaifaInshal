@@ -73,7 +73,7 @@
 > "Code, learn, play, repeat."  
 > I believe in building solutions through both structured coding and creative vibecoding, while continuously exploring new technologies and ideas. Life is a mix of learning, creating, and enjoying the little things, like a good story or a fast-paced table tennis match.
 
-<details>
+<details open>
 <summary>Random Facts</summary>
 
 - Run 2–3 AI assistants at once (because free tokens are basically digital snacks 😎)
