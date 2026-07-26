@@ -51,7 +51,7 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/HuzaifaInshal)
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=HuzaifaInshal&hide_border=true)
 
 ## What I'm Doing
 
