@@ -49,9 +49,9 @@
 - 🤖 **Local AI Integration Setup** - Natural language SQL querying and PDF analytics powered by hybrid-local AI models. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/local-AI-integration-setup)
 - 🎬 **Media Load App** - Browse, scrap, download, and watch your favorite web videos offline, all in one app. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/media-load-app)
 
-## GitHub Activity
+<!-- ## GitHub Activity
 
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=HuzaifaInshal&hide_border=true)
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=HuzaifaInshal&hide_border=true) -->
 
 ## What I'm Doing
 
