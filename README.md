@@ -16,6 +16,10 @@
 
 > Over the years, I’ve built user-focused products with clean architecture, strong engineering fundamentals, and AI-driven workflows to ship faster and smarter.
 
+## Open-source Contributions
+
+- 🤖 **Dexter** - An autonomous agent for deep financial research. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/virattt/dexter)
+
 ## Side Projects
 
 - 🔏 **Huzaifa Dev Vault** - A personal knowledge base for code snippets, guides and AI workflows. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/huzaifa-dev-vault) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://huzaifa-dev-vault.vercel.app/)
@@ -24,6 +28,7 @@
 - 📱 **Screen Free** - Master your screen time by locking apps using your personal schedule. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/screen-free)
 - 📸 **Social Save** - Save and organize posts, reels, videos, and photos from multiple social platforms. Features a web platform and chrome extension. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/social-save) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://social-save-allz.vercel.app/)
 - 🗂️ **PDF Manager** - A free application for organizing, editing, and managing PDFs. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/pdf-manager) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)]()
+- 💰 **Wealth Folio** - Private investment tracking powered by your personal Google Sheet [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/wealth-folio) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://wealth-foliio.vercel.app/)
 - ✊ **NextJS Boiler Plate** - A production-ready Next.js starter with utilities, hooks, and AI-friendly development workflows. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/nextjs-boilerplate)
 
 ### Automation and Scripts
