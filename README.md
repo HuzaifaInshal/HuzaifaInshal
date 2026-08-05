@@ -16,7 +16,7 @@
 
 > Over the years, I’ve built user-focused products with clean architecture, strong engineering fundamentals, and AI-driven workflows to ship faster and smarter.
 
-#3# Open-source Contributions
+### Open-source Contributions
 
 - 🤖 **Dexter** - An autonomous agent for deep financial research. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/virattt/dexter)
 
