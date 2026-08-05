@@ -35,7 +35,6 @@
 
 - 🤖 **Local AI Integration Setup** - Natural language SQL querying and PDF analytics powered by local AI models in a stateless/non-conversational way. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/local-AI-integration-setup)
 - 🤖 **Local AI Integration Setup 2** - Local AI models setup in stateful/conversational approach. Implements ReAct pattern with multiple tools. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/local-AI-integration-setup-2)
-- 🎬 **Media Load App** - Browse, scrap, download, and watch your favorite web videos offline, all in one app. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/media-load-app)
 
 ### Automation and Scripts
 
@@ -57,6 +56,10 @@
 - 🧮 **Calculator** - A clean calculator built using core HTML, CSS, and JavaScript fundamentals. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/calculator) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://calculator7854.netlify.app/)
 - 💰 **Bill Splitter** - Split expenses fairly among friends. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/bill-splitter) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://bill-splitter-lyart.vercel.app/)
 - 📝 **Blog Management System** - Simple blog management system built as a MonoRepo of NextJs+ExpressJs using TurboRepo. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/blog-management-system) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://blog-management-system-web.vercel.app/)
+
+### Legacy/Unfinished Work
+
+- 🎬 **Media Load App** - Browse, scrap, download, and watch your favorite web videos offline, all in one app. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/media-load-app)
 
 <!-- ## GitHub Activity
 
