@@ -31,15 +31,15 @@
 - 💰 **Wealth Folio** - Private investment tracking powered by your personal Google Sheet [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/wealth-folio) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://wealth-foliio.vercel.app/)
 - ✊ **NextJS Boiler Plate** - A production-ready Next.js starter with utilities, hooks, and AI-friendly development workflows. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/nextjs-boilerplate)
 
-### Automation and Scripts
-
-- 🔐 **Wifite Hashcat Automation** - Automates WPA handshake capture and Hashcat workflows using Python on Kali Linux. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/wifite-hashcat-automation-script)
-
 ### Experimental Projects
 
 - 🤖 **Local AI Integration Setup** - Natural language SQL querying and PDF analytics powered by local AI models in a stateless/non-conversational way. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/local-AI-integration-setup)
-- 🤖 **Local AI Integration Setup 2** - A local AI models setup in stateful/conversational pattern. Implements ReAct pattern with multiple tools. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/local-AI-integration-setup-2)
+- 🤖 **Local AI Integration Setup 2** - Local AI models setup in stateful/conversational approach. Implements ReAct pattern with multiple tools. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/local-AI-integration-setup-2)
 - 🎬 **Media Load App** - Browse, scrap, download, and watch your favorite web videos offline, all in one app. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/media-load-app)
+
+### Automation and Scripts
+
+- 🔐 **Wifite Hashcat Automation** - Automates WPA handshake capture and Hashcat workflows using Python on Kali Linux. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/wifite-hashcat-automation-script)
 
 ### Extensions and Add-ons
 
