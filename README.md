@@ -35,16 +35,16 @@
 
 - 🔐 **Wifite Hashcat Automation** - Automates WPA handshake capture and Hashcat workflows using Python on Kali Linux. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/wifite-hashcat-automation-script)
 
+### Experimental Projects
+
+- 🤖 **Local AI Integration Setup** - Natural language SQL querying and PDF analytics powered by local AI models in a stateless/non-conversational way. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/local-AI-integration-setup)
+- 🤖 **Local AI Integration Setup 2** - A local AI models setup in stateful/conversational pattern. Implements ReAct pattern with multiple tools. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/local-AI-integration-setup-2)
+- 🎬 **Media Load App** - Browse, scrap, download, and watch your favorite web videos offline, all in one app. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/media-load-app)
+
 ### Extensions and Add-ons
 
 - 📸 **DOM Snap** - A Chrome extension for capturing screenshots of any DOM element in multiple formats. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/dom-snap)
 - 🚀 **Googe Docs Addons** - A compilation repo for Google Docs addons, extensions and tools. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/google-docs-addons)
-
-### Quick Sites
-
-- 🧮 **Calculator** - A clean calculator built using core HTML, CSS, and JavaScript fundamentals. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/calculator) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://calculator7854.netlify.app/)
-- 💰 **Bill Splitter** - Split expenses fairly among friends. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/bill-splitter) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://bill-splitter-lyart.vercel.app/)
-- 📝 **Blog Management System** - Simple blog management system built as a MonoRepo of NextJs+ExpressJs using TurboRepo. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/blog-management-system) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://blog-management-system-web.vercel.app/)
 
 ### Static-3d Platforms
 
@@ -52,11 +52,11 @@
 - 🚀 **SpaceX Spacecraft** - An immersive 3D space exploration experience built for the browser. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/spacex-spacecraft) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://3dspacecraft.netlify.app/)
 - 📱 **iPhone 14 Pro** - A futuristic 3D showcase inspired by the iPhone 14 Pro. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/3d-iphone-14-pro) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://3diphone14pro.netlify.app/)
 
-### Experimental Projects
+### Quick Sites
 
-- 🤖 **Local AI Integration Setup** - Natural language SQL querying and PDF analytics powered by local AI models in a stateless/non-conversational way. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/local-AI-integration-setup)
-- 🤖 **Local AI Integration Setup 2** - A local AI models setup in stateful/conversational pattern. Implements ReAct pattern with multiple tools. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/local-AI-integration-setup-2)
-- 🎬 **Media Load App** - Browse, scrap, download, and watch your favorite web videos offline, all in one app. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/media-load-app)
+- 🧮 **Calculator** - A clean calculator built using core HTML, CSS, and JavaScript fundamentals. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/calculator) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://calculator7854.netlify.app/)
+- 💰 **Bill Splitter** - Split expenses fairly among friends. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/bill-splitter) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://bill-splitter-lyart.vercel.app/)
+- 📝 **Blog Management System** - Simple blog management system built as a MonoRepo of NextJs+ExpressJs using TurboRepo. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/blog-management-system) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://blog-management-system-web.vercel.app/)
 
 <!-- ## GitHub Activity
 
