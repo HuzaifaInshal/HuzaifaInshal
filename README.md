@@ -16,11 +16,11 @@
 
 > Over the years, I’ve built user-focused products with clean architecture, strong engineering fundamentals, and AI-driven workflows to ship faster and smarter.
 
-## Open-source Contributions
+#3# Open-source Contributions
 
 - 🤖 **Dexter** - An autonomous agent for deep financial research. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/virattt/dexter)
 
-## Side Projects
+### Side Projects
 
 - 🔏 **Huzaifa Dev Vault** - A personal knowledge base for code snippets, guides and AI workflows. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/huzaifa-dev-vault) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://huzaifa-dev-vault.vercel.app/)
 - 🤖 **Job Tracker** - A centralized dashboard to track job applications, interview stages, and hiring progress. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/job-tracker) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://job-tracker-huz.vercel.app/)
