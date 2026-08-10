@@ -18,12 +18,13 @@
 
 ### Open-source Contributions
 
-- 🤖 **Dexter** - An autonomous agent for deep financial research. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/virattt/dexter)
+- 📈 **Dexter** - An autonomous agent for deep financial research. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/virattt/dexter)
+- 📓 **LLM Google Colabs** - A tutorial on how to set up a LLM on Google Colab for both GPU-accelerated and CPU-only session. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/casualcomputer/llm_google_colab/)
 
 ### AI & ML Setups
 
-- 🤖 **Local AI Integration Setup** - Natural language SQL querying and PDF analytics powered by local AI models in a stateless/non-conversational way. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/local-AI-integration-setup)
-- 🤖 **Local AI Integration Setup 2** - Local AI models setup in stateful/conversational approach. Implements ReAct pattern with multiple tools. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/local-AI-integration-setup-2)
+- 🔍 **Local AI Integration Setup** - Natural language SQL querying and PDF analytics powered by local AI models in a stateless/non-conversational way. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/local-AI-integration-setup)
+- 💬 **Local AI Integration Setup 2** - Local AI models setup in stateful/conversational approach. Implements ReAct pattern with multiple tools. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/local-AI-integration-setup-2)
 
 ### Developer Toolkit & Resources
 
