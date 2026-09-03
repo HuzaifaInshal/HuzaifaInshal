@@ -21,21 +21,19 @@
 - 📈 **Dexter** - An autonomous agent for deep financial research. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/virattt/dexter)
 - 📓 **LLM Google Colabs** - A tutorial on how to set up a LLM on Google Colab for both GPU-accelerated and CPU-only session. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/casualcomputer/llm_google_colab/)
 
-### AI & ML Setups
+### Start here with Developer Toolkit & Resources
+
+- 🔏 **Huzaifa Dev Vault** - A personal knowledge base for code snippets, guides and AI workflows. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/huzaifa-dev-vault) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://huzaifa-dev-vault.vercel.app/)
+- ✊ **NextJS Boiler Plate** - A production-ready Next.js starter with utilities, hooks, and AI-friendly development workflows. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/nextjs-boilerplate)
+
+### Experiments, Demos & Legacy Work
 
 - 🔍 **Experimental Local AI Integration Setup** - Natural language SQL querying and PDF analytics powered by local AI models in a stateless/non-conversational way. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/experimental-local-AI-integration-setup)
 - 💬 **Experimental Local AI Integration Setup 2** - Local AI models setup in stateful/conversational approach. Implements ReAct pattern with multiple tools. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/experimental-local-AI-integration-setup-2)
 - 🎤 **Experimental AI Voice Interaction Pipeline** - Production real time voice interaction pipeline with endpointing. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/experimental-ai-voice-interaction-pipeline)
-
-### Developer Toolkit & Resources
-
-- 🔏 **Huzaifa Dev Vault** - A personal knowledge base for code snippets, guides and AI workflows. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/huzaifa-dev-vault) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://huzaifa-dev-vault.vercel.app/)
-- ✊ **NextJS Boiler Plate** - A production-ready Next.js starter with utilities, hooks, and AI-friendly development workflows. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/nextjs-boilerplate)
+- 🔐 **Wifite Hashcat Automation** - Automates WPA handshake capture and Hashcat workflows using Python on Kali Linux. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/wifite-hashcat-automation-script)
 - 🎨 **Git Painter** - Generate artificial Git commit histories and export them as ready-to-use repositories. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/git-painter) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://git-painter-1.vercel.app/)
 - 📸 **DOM Snap** - A Chrome extension for capturing screenshots of any DOM element in multiple formats. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/dom-snap)
-
-### Productivity & Personal Software
-
 - 🤖 **Job Tracker** - A centralized dashboard to track job applications, interview stages, and hiring progress. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/job-tracker) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://job-tracker-huz.vercel.app/)
 - 📱 **Screen Free** - Master your screen time by locking apps using your personal schedule. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/screen-free)
 - 📸 **Social Save** - Save and organize posts, reels, videos, and photos from multiple social platforms. Features a web platform and chrome extension. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/social-save) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://social-save-allz.vercel.app/)
@@ -43,19 +41,9 @@
 - 💰 **Wealth Folio** - Private investment tracking powered by your personal Google Sheet [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/wealth-folio) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://wealth-foliio.vercel.app/)
 - 🚀 **Googe Docs Addons** - A compilation repo for Google Docs addons, extensions and tools. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/google-docs-addons)
 - 🎬 **Media Load App** - Browse, scrap, download, and watch your favorite web videos offline, all in one app. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/media-load-app)
-
-### Security & Automation
-
-- 🔐 **Wifite Hashcat Automation** - Automates WPA handshake capture and Hashcat workflows using Python on Kali Linux. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/wifite-hashcat-automation-script)
-
-### Creative & 3d Frontend
-
 - 🎨 **Dropify** - A custom 3D web animation experience built with Three.js and GSAP. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/3d-dropify) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://3dropify.netlify.app/)
 - 🚀 **SpaceX Spacecraft** - An immersive 3D space exploration experience built for the browser. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/spacex-spacecraft) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://3dspacecraft.netlify.app/)
 - 📱 **iPhone 14 Pro** - A futuristic 3D showcase inspired by the iPhone 14 Pro. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/3d-iphone-14-pro) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://3diphone14pro.netlify.app/)
-
-### Utilities, Experiments & Demos
-
 - 🧮 **Calculator** - A clean calculator built using core HTML, CSS, and JavaScript fundamentals. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/calculator) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://calculator7854.netlify.app/)
 - 💰 **Bill Splitter** - Split expenses fairly among friends. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/bill-splitter) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://bill-splitter-lyart.vercel.app/)
 - 📝 **Blog Management System** - Simple blog management system built as a MonoRepo of NextJs+ExpressJs using TurboRepo. [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/HuzaifaInshal/blog-management-system) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat&logo=vercel&logoColor=white)](https://blog-management-system-web.vercel.app/)
